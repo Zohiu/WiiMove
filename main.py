@@ -1,5 +1,6 @@
 # You need to have WIT installed. (To read id and name data from .wbfs files)
 # https://wit.wiimm.de/wit/
+# I made this quickly with the goal of looking good. I'm open for improvements.
 
 
 import os
